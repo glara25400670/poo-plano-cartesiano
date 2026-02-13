@@ -19,7 +19,7 @@ public class DemoDistancia {
         System.out.println(puntoC); // C(0,0)
         System.out.println(puntoD); // D(4,4)
 
-        PROGRAMACIÓN ORIENTADA A OBJETOS // Subtema 2.2 — Instanciación de Distancia pasando objetos Punto
+        //PROGRAMACIÓN ORIENTADA A OBJETOS // Subtema 2.2 — Instanciación de Distancia pasando objetos Punto
                 // El constructor de Distancia recibe dos objetos Punto como argumentos
 
         Distancia d1 = new Distancia(puntoA, puntoB);
